@@ -1,5 +1,5 @@
 Intrebare test laborator 
-18 mar. ora 10:15 
+18 mar. ora 12:15  (semigrupa 11-13)
 QL2: Care este performanta optima (Cazul SVM) si in ce conditii ati obtinut-o ?
 Dati un motiv pentru care SVM este mai putin favorabil decat ELM in 
 aplicatii integrate. Care este performanta optima SVM pe care ati obtinut-o ?
