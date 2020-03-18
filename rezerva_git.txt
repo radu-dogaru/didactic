@@ -1,6 +1,12 @@
 Intrebare test laborator 
 18 mar. ora 10:15 
-QL1: Care sunt avantajele ELM din perspectiva integrarii ? In ce conditii (prag, h,l) ati obtinut perf. maxima si cu ce latenta ?
-Raspuns pe e-mail trimis in max. 30' lucrarea atasata ca fisier imagine (scan sau foto) 
+QL2: Care este performanta optima (Cazul SVM) si in ce conditii ati obtinut-o ?
+Dati un motiv pentru care SVM este mai putin favorabil decat ELM in 
+aplicatii integrate. Care este performanta optima SVM pe care ati obtinut-o ?
+ 
 Va aparea aici la ora x+75' in ziua de lab 
+
+
+Sa imi trimiteti pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
+lucrarii Subject: L2-ICI (ca sa fie mai usor de identificat mesajul)
 
