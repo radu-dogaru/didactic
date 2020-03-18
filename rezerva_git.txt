@@ -7,5 +7,14 @@ Va aparea aici la ora x+75' in ziua de lab
 
 
 Sa imi trimiteti pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
-lucrarii Subject: L2-ICI (ca sa fie mai usor de identificat mesajul)
+lucrarii Subject: L2-ICI (ca sa fie mai usor de identificat mesajul). 
+Nu am sa confirm fiecaruia, la finalul saptamanii sper sa le am corectate 
+toate si sa vedeti rezultatul intr-un .xls postat (Moodle + site curs) 
+
+Alte teste: 
+
+Ora 19:00 (presupune ca ati parcurs in regim individual lucrarile de lab) 
+L1
+
+L2 (Ora 19:20) - numai cei care nu au putut participa la testele date mai devreme 
 
