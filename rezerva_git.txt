@@ -1,20 +1,19 @@
 Intrebare test laborator 
-18 mar. ora 18:55  (test Lab 1 ) (presupune ca ati parcurs in regim individual lucrarile de lab) 
 
-QL1_1: In pasul 2 (simularea retelei celular neuronale) ce se intampla daca alegem prea putine iteratii ?
-dar daca alegem prea multe ?
+Supliment L2 19:20 - NUMAI cei care nu au putut da mai devreme (sa explice si motivul)
+Presupune ca ati parcurs lucrarea in regim de studiu individual. 
 
+NU ESTE CAZUL (nu am primit solicitari) 
+Saptamanile urmatoare vom urma aceeasi procedura, este ESENTIAL sa rezervati 
+un pic de timp cu 1-3 zile inainte si sa parcurgeti in avans materialele 
+postate (fie pe site curs fie in Moodle) 
 
-Va aparea aici la ora x+75' in ziua de lab 
-
-Sa imi trimiteti inmax 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
-lucrarii Subject: L1-ICI-semigrupa (ca sa fie mai usor de identificat mesajul). 
+Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
+lucrarii Subject: L2-ICI-rec (ca sa fie mai usor de identificat mesajul). 
 Nu am sa confirm fiecaruia, la finalul saptamanii sper sa le am corectate 
 toate si sa vedeti rezultatul intr-un .xls postat (Moodle + site curs) 
 
-Alte teste: 
+Va aparea aici la ora x+75' in ziua de lab 
 
 
-
-L2 (Ora 19:20) - numai cei care nu au putut participa la testele date mai devreme 
 
