@@ -1,7 +1,8 @@
 Intrebare test laborator 
 18 mar. ora 16:15  (semigrupa 15-17)
-.... 
- 
+QL3: De ce nu este favorabil SVM pentru aplicatii integrate hardware ?
+Care sunt cele mai bune rezultate obtinute de dvs. (inclusiv latenta)
+
 Va aparea aici la ora x+75' in ziua de lab 
 
 
