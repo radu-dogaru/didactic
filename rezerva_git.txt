@@ -1,3 +1,5 @@
 Intrebare test laborator 
-AAAAA -
+QL1: Care sunt avantajele ELM din perspectiva integrarii ? In ce conditii (prag, h,l) ati obtinut perf. maxima si cu ce latenta ?
+
 Va aparea aici la ora x+75' in ziua de lab 
+
