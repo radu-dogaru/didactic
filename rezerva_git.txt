@@ -1,21 +1,20 @@
 Intrebare test laborator 
-18 mar. ora 18:15  (semigrupa 17-19)
+18 mar. ora 18:55  (test Lab 1 ) (presupune ca ati parcurs in regim individual lucrarile de lab) 
 
-QL4: Care este principala problema (dezavantaj) in cazul ELM ? 
-Dar avantajele (in special din punct de vedere al integrarii). 
+QL1_1: In pasul 2 (simularea retelei celular neuronale) ce se intampla daca alegem prea putine iteratii ?
+dar daca alegem prea multe ?
+
 
 Va aparea aici la ora x+75' in ziua de lab 
 
-
 Sa imi trimiteti inmax 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
-lucrarii Subject: L2-ICI (ca sa fie mai usor de identificat mesajul). 
+lucrarii Subject: L1-ICI-semigrupa (ca sa fie mai usor de identificat mesajul). 
 Nu am sa confirm fiecaruia, la finalul saptamanii sper sa le am corectate 
 toate si sa vedeti rezultatul intr-un .xls postat (Moodle + site curs) 
 
 Alte teste: 
 
-Ora 19:00 (presupune ca ati parcurs in regim individual lucrarile de lab) 
-L1
+
 
 L2 (Ora 19:20) - numai cei care nu au putut participa la testele date mai devreme 
 
