@@ -5,8 +5,15 @@ LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI
 
 Intrebarea de la ora 18:15 
 
+CORECTAT 
+
+La experimentul 3, care este compromisul optim intre o acuratete buna si un numar rezonabil de epoci ? 
+Argumentati cu rezultatele proprii.
+
+
+
 Q3-4: La experimentul 3, care este compromisul optim intre o acuratete buna si un 
-numar rezonabil de parametri ? Argumentati cu rezultatele proprii.
+numar rezonabil de EPOCI ? Argumentati cu rezultatele proprii.
 
 
 Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
