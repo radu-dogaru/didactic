@@ -3,12 +3,10 @@ Intrebare teste laborator  (L4 - ICI, L3 - SRC/eng/rom)
 
 LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
 
-Intrebarea de la ora 10:15 
+Intrebarea de la ora 12:15 
 
-Q4-3 Experimentele 1-4: Cum se modifica acuratetea la structura CNN cu 2 straturi in raport cu rezultatele din
-experimentele anterioare ? Dar in raport cu numarul de parametri antrenabili ? Argumentati cu
-rezultatele proprii. Cum explicati cresterea timpilor de antrenare ?
-
+Q4-5: Care este cea mai convenabila arhitectura pe care ati obtinut-o pentru baza de date considerate
+(mentionati baza de date) ? Argumentati cu rezultatele proprii.
 
 
 Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
