@@ -1,5 +1,25 @@
 Quiz 1 - RCS (Reconfigurable Computing Systems) 
+https://testmoz.com/2618051/
+Passcode: 2020cpld
 
+Dupa ce ati introdus passcode si aveti acces la test: 
+Analizati atent fiecare intrebare si dati rapunsul True(Adevarat)/False (Fals)
+Nu va grabiti (sunt alocate 12' in total) pentru ca nu se mai poate reveni 
+Urmariti contorul de timp (fond verde). 
+La punctajul indicat va voi adauga 4 puncte din oficiu, maine cel tarziu vor fi 
+actualizate si tabelele cu situatia Dvs. la zi. 
+Dupa 15' din acest moment (17:30)am sa "opresc" testul (sunt incluse si minutele 
+necesare pentru acces) 
+
+After login (with the above passcode) the time goes down 
+Carefully analize each question and give the proper answer. 
+Don't hurry, after pressing SUBMIT, you cannot go back. 
+Keep an eye on the green counter. The final points will be 4+what is indicated by the 
+test. Soon (Tuesday) I will update the file with your evalutaion status. 
+Please note that I will invalidate the test in 15' for now i.e. 17:30 
+(so, do not delay your login) 
+
+Good Luck !
 
 
 ------------------------------------------------------------------------------------------------------
