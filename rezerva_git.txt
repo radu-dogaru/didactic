@@ -1,18 +1,25 @@
 Verificarea 1 - ICI 
 
+Grupele 1,2 si de la alte serii 
+https://testmoz.com/2615835/
 
+Grupele 3,4 
+https://testmoz.com/2667955/
 
-Passcode: cnn2020
-Dupa ce ati introdus passcode si aveti acces la test: 
+Passcode (la toti): cnn2020
+
+Dupa ce ati introdus (Grupa/nume/e-mail acelasi cu cel folosit in lab) 
+si apoi  passcode si aveti acces la test: 
 Analizati atent fiecare intrebare si dati rapunsul True(Adevarat)/False (Fals)
-Nu va grabiti (este alocat 1' pe intrebare - 12' in total) pentru ca nu se mai poate reveni 
+Nu va grabiti (sunt alocate 12' in total) pentru ca nu se mai poate reveni 
 Urmariti contorul de timp (fond verde). 
 La punctajul indicat va voi adauga 4 puncte din oficiu, maine cel tarziu vor fi 
 actualizate si tabelele cu situatia Dvs. la zi. 
-Dupa 15' din acest moment (13:30) am sa "opresc" testul (sunt incluse si minutele 
+Dupa 15' din momentul de incepere (13:30) am sa "opresc" testul (sunt incluse si minutele 
 necesare pentru acces) 
 
 Mult succes !
+
 
 ------------------------------------------------------------------------------------------------------
 
