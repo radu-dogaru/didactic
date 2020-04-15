@@ -2,7 +2,21 @@
 Intrebare teste laborator  (L4 - ICI, L3 - SRC/eng/rom) 
 ================================================================================================
 
-Cod celula vizualizare 
+===============================
+
+LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
+
+Intrebarea de la ora 16:15  (Miercuri 15 aprilie 2020) 
+
+Care este cea mai convenabila arhitectura (acuratete maxima, 
+numar minim de parametri) 
+pe care ati obtinut-o pentru baza de date 
+CIFAR10 ? 
+Argumentati cu rezultatele proprii.
+
+==============================================================================================
+
+Cod celula vizualizare  (se insereaza dupa celula 3, inainte de celula 4) 
 
 ===============================
 # VIZUALIZARE EXEMPLE 
