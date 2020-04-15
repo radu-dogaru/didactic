@@ -14,8 +14,13 @@ pe care ati obtinut-o pentru baza de date
 CIFAR10 ? 
 Argumentati cu rezultatele proprii.
 
-==============================================================================================
 
+Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
+lucrarii Subject: L4-ICI (ca sa fie mai usor de identificat mesajul). 
+Nu am sa confirm fiecaruia, dar voi actualiza rezultatele intr-un .xls postat (Moodle + site curs)
+Nu uitati sa va treceti numele si grupa pe foaia cu raspunsuri. 
+
+==========================================================================================
 Cod celula vizualizare  (se insereaza dupa celula 3, inainte de celula 4) 
 
 ===============================
@@ -39,12 +44,6 @@ LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI
 
 Intrebarea de la ora 16:15 
 
-
-
-Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
-lucrarii Subject: L4-ICI (ca sa fie mai usor de identificat mesajul). 
-Nu am sa confirm fiecaruia, dar voi actualiza rezultatele intr-un .xls postat (Moodle + site curs)
-Nu uitati sa va treceti numele si grupa pe foaia cu raspunsuri. 
 
 
 =====================  SRC RCS  ===================================================================
