@@ -4,11 +4,8 @@ Intrebare teste laborator  (L4 - ICI, L3 - SRC/eng/rom)
 
 LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
 
-Intrebarea de la ora 12:15 
+Intrebarea de la ora 16:15 
 
-Q4-2: Care este cea mai convenabila arhitectura (acuratete maxima, numar minim de parametri) 
-pe care ati obtinut-o pentru baza de date F-MNIST? 
-Argumentati cu rezultatele proprii.
 
 
 Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
