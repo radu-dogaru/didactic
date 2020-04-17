@@ -1,16 +1,10 @@
 
-Intrebare teste laborator  (L4 - ICI, L3 - SRC/eng/rom) 
+Intrebare teste laborator  (L5 - ICI, L3 - SRC/eng/rom) 
 ================================================================================================
-Azi 15 - 04 de la 16 am pierdut conexiunea Moodle - rog sa urmariti aici intrebarea 
-===============================
 
 LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
 
-Intrebarea de la ora 18:15  (Miercuri 15 aprilie 2020) 
 
-Q4-4: Care este cea mai convenabila arhitectura (acuratete maxima, 
-numar minim de parametri) pe care ati obtinut-o pentru baza de date ORL ? 
-Argumentati cu rezultatele proprii.
 
 Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
 lucrarii Subject: L4-ICI (ca sa fie mai usor de identificat mesajul). 
@@ -18,7 +12,7 @@ Nu am sa confirm fiecaruia, dar voi actualiza rezultatele intr-un .xls postat (M
 Nu uitati sa va treceti numele si grupa pe foaia cu raspunsuri. 
 
 ==========================================================================================
-Cod celula vizualizare  (se insereaza dupa celula 3, inainte de celula 4) 
+Cod celula vizualizare pentru Lab 4  (se insereaza dupa celula 3, inainte de celula 4) 
 
 ===============================
 # VIZUALIZARE EXEMPLE 
@@ -36,12 +30,6 @@ z=model.predict(x_test[selectia:selectia+1,:,:,:])
 print('Eticheta recunoscuta: ',1+np.argmax(z))
 
 ===============================
-
-LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
-
-Intrebarea de la ora 16:15 
-
-
 
 =====================  SRC RCS  ===================================================================
 
