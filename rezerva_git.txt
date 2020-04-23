@@ -6,11 +6,7 @@ LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI
 
 Ora 18:15 
 
-Q5-3: Experim. 1: Cum se compara rezulatele ELM cu cele MLP antrenabil complet (Tabelul1) ? Luati in considerare atat
-acuratetea cat si numarul de biti pentru reprezentarea parametrilor. Care solutie ELM ar fi echivalenta ca
-performanta cu cele MLP ? Dar in ce priveste viteza de antrenare ce se constata ?
-Argumentati cu rezultatele proprii. 
-
+....
 
 Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
 lucrarii Subject: L5-ICI (ca sa fie mai usor de identificat mesajul). 
