@@ -1,3 +1,16 @@
+Question L6 - SRC
+Compare the types and role of projects that can be created using Vivado tools. 
+Exemplify and give details considering the project type from Lab5 Xilinx GitHub.
+
+Please send me by e-mail (as attached file) your scan/photo of the written test
+in no more than 30' from the publication of the question. 
+My e-mail ioana_d70@yahoo.com Subject: Lab SRC 
+Don't forget to mention your name and group on the scanned sheet of paper. 
+
+
+
+
+
 
 Intrebare teste laborator  (L5 - ICI, L3 - SRC/eng/rom) 
 ================================================================================================
