@@ -1,18 +1,14 @@
-
-
-
-
-
-
-
 Intrebare teste laborator  (L5 - ICI, L3 - SRC/eng/rom) 
 ================================================================================================
 
 LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
 
-Ora 18:15 
+Ora 10:15 
 
-....
+Experim. 3: Cum apreciati rezultatul obtinut in linia 4a fata de cel obtinut in linia 2c (acelasi expandor, ELM0
+inlocuit cu MLP0) ? Dar in raport cu rezultatele obtinute in modelul CNN antrenabil din Lucrarea 4 (tabel 1) ?
+Argumentati cu rezultatele proprii.
+
 
 Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
 lucrarii Subject: L5-ICI (ca sa fie mai usor de identificat mesajul). 
