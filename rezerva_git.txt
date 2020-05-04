@@ -1,3 +1,8 @@
+Verificarea V2 se efectueaza in pagina Moodle a disciplinei ICI 
+https://electronica.curs.pub.ro/2019/course/view.php?id=357
+prin aplicatia Quiz (se va activa la 13:10) 
+
+
 Intrebare teste laborator  (L5 - ICI, L3 - SRC/eng/rom) 
 ================================================================================================
 
