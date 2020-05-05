@@ -1,19 +1,11 @@
-Verificarea V2 se efectueaza in pagina Moodle a disciplinei ICI 
-https://electronica.curs.pub.ro/2019/course/view.php?id=357
-prin aplicatia Quiz (se va activa la 13:10) 
 
-
-Intrebare teste laborator  (L5 - ICI, L3 - SRC/eng/rom) 
+Intrebare teste laborator  (L6 - ICI, L3 - SRC/eng/rom) 
 ================================================================================================
 
-LOC PENTRU INTREBARE ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
+LOC PENTRU INTREBARE L6 ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
 
-Ora 18:15 
-
-Experiment 2: Liniile 1a - 2d. Cum se compara rezultatele cu cele obtinute in cazul CNN total antrenabil (tabel 1) – atat din
-punct de vedere al performantei cat si a numarului de parametri si vitezei de antrenare ? Argumentati cu
-rezultate proprii. La un coeficient de expansiune egal care este varianta mai eficienta ? Argumentati
-cu rezultate proprii.
+Ora 10:15 
+.... 
 
 Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
 lucrarii Subject: L5-ICI (ca sa fie mai usor de identificat mesajul). 
