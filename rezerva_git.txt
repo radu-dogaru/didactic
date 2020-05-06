@@ -6,10 +6,10 @@ LOC PENTRU INTREBARE L6 ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERC
 
 Ora 16:15 
 
-Q6-6: Experiment 3: Care este raza optima pentru care ati determinat cea mai buna acuratete ? Cum se
-compara solutia cu cele obtinute in experimentul 2 si in tabelul 1 ? Considerati in afara de acuratete si
-criteriile privind numarul de biti respectiv latenta, acolo unde exista date in acest sens in tabelul1.
-Argumentati cu rezultatele proprii.
+Q6-3: Experiment 2: Care este raza optima pentru care ati determinat cea mai buna acuratete ? Cum se
+compara solutia cu cele obtinute in lucrarile anterioare (rezumate in tabelul 1). Considerati in afara de
+acuratete si criteriile privind numarul de biti respectiv latenta, acolo unde exista date in acest sens in
+tabelul1. Argumentati cu rezultatele proprii.
 
 
 Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
