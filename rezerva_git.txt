@@ -1,9 +1,10 @@
-Intrebare teste laborator  (L6 - ICI, L3 - SRC/eng/rom) 
+Intrebare recuperari laborator ICI 
 ================================================================================================
 
-LOC PENTRU INTREBARE L6 ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
+LOC PENTRU INTREBARE recup. ICI  Va aparea la orele 10:15  12:15  16:15 18:15  MIERCURI 
 
-
+Rec4: Care este cea mai convenabila arhitectura pe care ati 
+obtinut-o pentru baza de date MNIST ? Argumentati cu rezultatele proprii.
 
 Rog sa imi trimiteti in max 30' pe e-mail rd_dogaru@yahoo.com un attach dupa poza/scan a 
 lucrarii Subject: L6-ICI (ca sa fie mai usor de identificat mesajul). 
